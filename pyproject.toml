@@ -15,6 +15,8 @@ dependencies = [
     "torch==2.7.1",
     "triton>=3.0.0",
     "transformers>=4.51.0",
+    "fastapi",
+    "uvicorn",
     "xxhash",
     "flash-attn==2.8.3.post1",
 ]
